@@ -91,7 +91,9 @@ co2.trade is a **reference layer**, not an execution layer.
 ## Status
 
 Early-stage public specification.  
-Stable content, intentionally low change frequency.
+Stable content, intentionally low change frequency.  
+Changes are additive and backward-aware.
+
 
 Future iterations may extend:
 - M2M interface definitions
